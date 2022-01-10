@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = charlotteanne.wegener@gmail.com
+	name = Charlotte Wegener
